@@ -1,0 +1,4 @@
+1.https://dev.botframework.com/
+2.https://docs.botframework.com/en-us/csharp/builder/sdkreference/gettingstarted.html#channels
+3.https://github.com/Microsoft/BotFramework-Emulator#download
+4.https://www.luis.ai/application/4ef73dda-554e-4c9b-a67e-f2e8a63ff471/version/0.1/overview
